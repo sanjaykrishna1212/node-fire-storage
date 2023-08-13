@@ -1,0 +1,14 @@
+{
+  "name": "node-fire-storage",
+  "version": "1.0.2",
+  "description": "download from storage to either will get  url public or   private ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "Sanjay S",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^11.10.1"
+  }
+}
